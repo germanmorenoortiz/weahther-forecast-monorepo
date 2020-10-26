@@ -1,0 +1,15 @@
+{
+  "name": "weahther-forecast-monorepo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:germanmorenoortiz/weahther-forecast-monorepo.git",
+  "author": "germanmorenoortiz <germanmorenoortiz.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  },
+  "workspaces": [
+    "server"
+  ]
+}
